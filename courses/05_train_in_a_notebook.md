@@ -17,7 +17,7 @@ Créez désormais une branche avec votre nom : `git switch -c votrenom/step02`
 ## Installation et présentation de JupyterLab
 
 JupyterLab est une interface web graphique pour l'environnement de développement de Jupyter, 
-une application open-source permettant de créer et partager des documents interactifs (notebook) qui contiennent du
+une application open-source permettant de créer et partager des documens interactifs (notebook) qui contiennent du
 code et du texte. JupyterLab est compatible avec tous les langages de programmation de 
 Jupyter, notamment Python, R, Julia et bien d'autres encore.
 
