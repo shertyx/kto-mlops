@@ -1,7 +1,7 @@
 import random
 from pathlib import Path
 
-import mlflow.keras
+import mlflow
 
 from .s3_wrapper import IS3ClientWrapper
 

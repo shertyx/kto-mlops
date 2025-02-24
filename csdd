@@ -1,0 +1,47 @@
+[33mcommit 00db2b2dcd3e93de66dd23ee9cfe27e3b5235e6a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcaron/step03[m[33m, [m[1;31morigin/caron/step03[m[33m)[m
+Author: Félix Caron <79203717+shertyx@users.noreply.github.com>
+Date:   Mon Feb 17 15:48:53 2025 +0000
+
+    erreur sur la derniere commande
+
+[33mcommit b3f36dba1c93fa9fb868d35c75d52b192b178dff[m[33m ([m[1;31morigin/step03[m[33m)[m
+Author: Guillaume Thomas <guillaume.thomas@axa.fr>
+Date:   Tue Jan 23 22:49:01 2024 +0000
+
+    feat: Add unit tests for train
+
+[33mcommit 87925ae47039967a4fab9a5611ca74724f9e7a6a[m
+Author: Guillaume Thomas <guillaume.thomas@axa.fr>
+Date:   Sun Jan 21 18:44:14 2024 +0000
+
+    feat: train my model
+
+[33mcommit e984305edc13504d79c267ab1f1eaccfa9156419[m[33m ([m[1;31morigin/step02[m[33m)[m
+Author: Guillaume Thomas <guillaume.thomas@axa.fr>
+Date:   Sat Jan 20 08:15:50 2024 +0000
+
+    feat: label raw data and store them.
+
+[33mcommit ae16a800993f8cbc7da90d90f68cde0ceeacf3ae[m[33m ([m[1;31morigin/step01[m[33m)[m
+Author: Guillaume Thomas <guillaume.thomas2@gmail.com>
+Date:   Fri Jan 19 20:44:17 2024 +0100
+
+    feat: Init cats_dogs_other project
+
+[33mcommit 06d0fee024f6a872edfcb11061093ef72607be2a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Guillaume Thomas <guillaume.thomas@axa.fr>
+Date:   Wed Jan 17 10:16:35 2024 +0100
+
+    doc: Add courses
+
+[33mcommit bcb760283b8cc0ba86b30749d9d723ae3b4c8cf3[m
+Author: Guillaume Thomas <guillaume.thomas@axa.fr>
+Date:   Wed Jan 17 17:35:15 2024 +0100
+
+    feat: Mise en place de notre environnement codespace
+
+[33mcommit 9d1c8dc79d8d4533db04ca517f5cf4f862fb56de[m
+Author: Guillaume Thomas <guillaume.thomas2@gmail.com>
+Date:   Mon Jan 15 21:38:26 2024 +0100
+
+    Initial commit
